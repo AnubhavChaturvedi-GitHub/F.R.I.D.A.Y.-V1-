@@ -13,14 +13,15 @@ F.R.I.D.A.Y. AI is an advanced AI assistant designed to assist users in various 
 
 ## Demo
 
-<!-- YouTube Video -->
 [![F.R.I.D.A.Y. AI Demo](https://img.youtube.com/vi/EPBKfcShtIA/maxresdefault.jpg)](https://youtu.be/EPBKfcShtIA?si=MUt9xB3f8eRVjRm5)
+
+Watch the demo video by clicking on the image above!
 
 ## Installation
 
 To install F.R.I.D.A.Y. AI, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your_username/F.R.I.D.A.Y.AI.git`
+1. Clone the repository: `git clone https://github.com/AnubhavChaturvedi-GitHub/F.R.I.D.A.Y.-V1-.gitt`
 2. Install dependencies: `npm install`
 3. Start the application: `npm start`
 
@@ -48,4 +49,14 @@ This project is licensed under the [MIT License](link/to/license). See the [LICE
 
 ## Contact
 
-For any inquiries or support, please contact us at [your_email@example.com](mailto:your_email@example.com).
+- **Instagram:** [Anubhav-Chaturvedi-Insta](https://www.instagram.com/_anubhav__chaturvedi_/)
+- **Facebook:** [IndianYoutuberAndSoftwareDevloper](https://www.facebook.com/IndianYoutuberAndSoftwareDevloper)
+- **Linktree:** [Allorizen](https://linktr.ee/allorizen)
+- **Portfolio:** [Anubhav Chaturvedi](https://anubhavchaturvedipro-portfolio.netlify.app)
+- **LinkedIn:** [Anubhav Chaturvedi](https://linkedin.com/in/anubhav-chaturvedi-)
+- **Twitter:** [Anubhav Chaturvedi](https://twitter.com/AnubhavChatu)
+- **GitHub:** [AnubhavChaturvedi-GitHub](https://github.com/AnubhavChaturvedi-GitHub)
+- **YouTube (NetHyToons):** [NetHyToons](https://www.youtube.com/@nethytoons)
+- **YouTube (Anubhav-Chaturvedi-YT):** [Anubhav-Chaturvedi-YT](https://www.youtube.com/@Anubhav_Chaturvedi)
+- **Geeks for Geeks:** [Chaturvedianubhav520](https://auth.geeksforgeeks.org/user/chaturvedianubhav520)
+- **LeetCode:** [Ac520](https://leetcode.com/Ac520)
