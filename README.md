@@ -38,9 +38,7 @@ Contributions are welcome! If you'd like to contribute to F.R.I.D.A.Y. AI, pleas
 - Push to the branch: `git push origin feature/new-feature`
 - Submit a pull request
 
-## License
 
-This project is licensed under the [MIT License](link/to/license). See the [LICENSE](link/to/license) file for details.
 
 ## Acknowledgements
 
