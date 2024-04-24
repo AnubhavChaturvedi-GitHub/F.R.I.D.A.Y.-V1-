@@ -2,7 +2,7 @@
 
 F.R.I.D.A.Y. AI is an advanced AI assistant designed to assist users in various tasks efficiently.
 
-![F.R.I.D.A.Y. AI Logo](link/to/logo.png)
+![F.R.I.D.A.Y. AI Logo](https://github.com/AnubhavChaturvedi-GitHub/F.R.I.D.A.Y.-V1-/blob/main/Screenshot%202024-04-25%20030347.png)
 
 ## Features
 
