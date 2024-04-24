@@ -14,7 +14,7 @@ F.R.I.D.A.Y. AI is an advanced AI assistant designed to assist users in various 
 ## Demo
 
 <!-- YouTube Video -->
-[![F.R.I.D.A.Y. AI Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://youtu.be/EPBKfcShtIA?si=MUt9xB3f8eRVjRm5)
+[![F.R.I.D.A.Y. AI Demo](https://e7.pngegg.com/pngimages/59/171/png-clipart-video-logo-font-text-play-video-text-logo.png)](https://youtu.be/EPBKfcShtIA?si=MUt9xB3f8eRVjRm5)
 
 ## Installation
 
