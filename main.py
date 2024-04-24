@@ -6,6 +6,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from webdriver_manager.chrome import ChromeDriverManager
 
 def configure_driver():
     """Configure and return a Chrome WebDriver instance."""
@@ -15,9 +16,7 @@ def configure_driver():
     chrome_options.add_argument("--profile-directory=Default")
     chrome_options.add_argument(f'user-data-dir={ScriptDir}\\chromedata')
     chrome_options.add_argument("--headless")
-    driver_path = r"C:\Users\chatu\OneDrive\Desktop\F.R.I.D.A.Y\Chrome Driver\chromedriver.exe"
-    service = Service(driver_path)
-    driver = webdriver.Chrome(service=service, options=chrome_options)
+    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
     return driver
 
 
