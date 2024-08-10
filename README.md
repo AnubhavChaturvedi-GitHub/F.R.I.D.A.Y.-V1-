@@ -45,7 +45,7 @@ Contributions are welcome! If you'd like to contribute to F.R.I.D.A.Y. AI, pleas
 - Special thanks to [PI AI](https://pi.ai) for providing inspiration and resources for AI development.
 - Thanks to all contributors who help improve F.R.I.D.A.Y. AI.
 
-## Contact
+## Contact 😊
 
 - **Instagram:** [Anubhav-Chaturvedi-Insta](https://www.instagram.com/_anubhav__chaturvedi_/)
 - **Facebook:** [IndianYoutuberAndSoftwareDevloper](https://www.facebook.com/IndianYoutuberAndSoftwareDevloper)
